@@ -22,9 +22,9 @@ name=input("Introduce yourself to the audience!")
 print("Welcome"+name+"nice to meet you")
 print("Are you good at guessing words? 1: i'm really good at it, 2:i will try my best, 3:no, but i will just play")
 if answer==1:
-    print("i hope you win")
-elif answer==2:
     print("you might find it easy")
+elif answer==2:
+    print("i hope you win")
 elif answer==3:
     print("i hope at least you guess the first 5 riddles")
 
