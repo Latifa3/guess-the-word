@@ -19,7 +19,7 @@ amount=(Q1_amount,Q2_amount,Q3_amount,Q4_amount,Q5_amount,Q6_amount,Q7_amount,Q8
 
 print("Hello, welcome to Guess the word game")
 name=input("Introduce yourself to the audience!")
-print("Welcome"+name+"nice to meet you")
+print("Welcome"+" "+name+" "+"nice to meet you")
 print("Are you good at guessing words? 1: i'm really good at it, 2:i will try my best, 3:no, but i will just play")
 if answer==1:
     print("you might find it easy")
